@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://tarbas:tarbas1234@cluster0-0s7ze.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "436b4d3783678b6730a6",
+    "githubSecret": "cf429499c18cc7d6735c30e1f264dab1341c3775"
+
+}
